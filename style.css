@@ -1,0 +1,83 @@
+* {
+    background-color: rgb(240, 240, 240);
+    
+}
+h1 {
+    text-align: center;
+}
+
+#blue {
+    border: 10px solid white;
+    width: 900px;
+    height: 250px;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: auto;
+}
+
+#code {
+    
+    height: 200px;
+    width: 200px;
+}
+
+#dreads {
+    height: 200px;
+    width: 200px;
+}
+
+#hat {
+    height: 200px;
+    width: 200px;
+}
+
+#pink {
+    border: 10px solid white;
+    width: 900px;
+    height: 250px;
+    background-color: pink;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: auto;
+}
+
+
+#hoodie {
+    height: 200px;
+    width: 200px;
+}
+
+#sign {
+    height: 200px;
+    width: 200px;
+}
+
+#white  {
+    border: 10px solid white;
+    width: 900px;
+    height: 250px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: auto;
+}
+
+#gang {
+    height: 200px;
+    width: 200px;
+    
+}
+
+#daft-punk {
+    height: 200px;
+    width: 200px;
+}
+
+#finn {
+    height: 200px;
+    width: 200px;
+}
